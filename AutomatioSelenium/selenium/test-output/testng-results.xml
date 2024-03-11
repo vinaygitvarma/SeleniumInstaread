@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-11T22:35:55 IST" name="Default suite" finished-at="2024-03-11T22:36:00 IST" duration-ms="4724">
+    <groups>
+    </groups>
+    <test started-at="2024-03-11T22:35:55 IST" name="Default test" finished-at="2024-03-11T22:36:00 IST" duration-ms="4724">
+      <class name="automation.selenium.AppTest">
+        <test-method is-config="true" signature="capabiliies()[pri:0, instance:automation.selenium.AppTest@5e0e82ae]" started-at="2024-03-11T22:35:55 IST" name="capabiliies" finished-at="2024-03-11T22:35:57 IST" duration-ms="2145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capabiliies -->
+        <test-method is-config="true" signature="browser()[pri:0, instance:automation.selenium.AppTest@5e0e82ae]" started-at="2024-03-11T22:35:57 IST" name="browser" finished-at="2024-03-11T22:36:00 IST" depends-on-methods="automation.selenium.BaseClass.capabiliies" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="name()[pri:0, instance:automation.selenium.AppTest@5e0e82ae]" started-at="2024-03-11T22:36:00 IST" name="name" finished-at="2024-03-11T22:36:00 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- automation.selenium.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
