@@ -9,7 +9,7 @@ public class AppTest extends BaseClass
 {
 	@Test
    public void name() {
-	
+		driver.get("https://instaread.co/");
 }
    
 }
